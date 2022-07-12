@@ -15,9 +15,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_lemonadep.mk
+    $(LOCAL_DIR)/mokee_lemonadep.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_lemonadep-user \
-    lineage_lemonadep-userdebug \
-    lineage_lemonadep-eng
+    mokee_lemonadep-user \
+    mokee_lemonadep-userdebug \
+    mokee_lemonadep-eng
